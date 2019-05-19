@@ -2,6 +2,7 @@ How to Lie with Charts
 
 [Link](http://nautil.us/issue/19/illusions/five-ways-to-lie-with-charts)
 
+***
 
 ![Financial Times Line Graph](FT_Times_Line.PNG)
 
@@ -15,3 +16,5 @@ How to Lie with Charts
 
 ![Deceiving 3D Pie Chart](Pie_chart_deception.PNG)
 
+***
+![Taxi Expenses Treemap](NY_Taxi_Treemap.JPG)
