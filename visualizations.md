@@ -28,3 +28,7 @@ How to Lie with Charts
 
 ***
 ![Taxi Expenses Treemap](NY_Taxi_Treemap.JPG)
+
+***
+
+![538 Recreation of Napolean Map](538_starwars.JPG)
