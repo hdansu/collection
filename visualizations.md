@@ -31,4 +31,4 @@ How to Lie with Charts
 
 ***
 
-![538 Recreation of Napolean Map](538_starwars.JPG)
+![538 Recreation of Napolean Map](538_starwars.jpg)
